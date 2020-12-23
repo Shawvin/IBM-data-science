@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+WDIData.csv filter=lfs diff=lfs merge=lfs -text
+sales_price.csv filter=lfs diff=lfs merge=lfs -text
+sales_train_validation.csv filter=lfs diff=lfs merge=lfs -text
